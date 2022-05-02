@@ -38,9 +38,9 @@ Here is the description of all the variables :
 
 ## How good are your predictions?
 
-### Evaluation Metric!
+### Evaluation Metric
 
-[3](https://user-images.githubusercontent.com/69068577/166183508-febeca5f-c99f-49ac-9678-8d63894b4c34.png)
+![3](https://user-images.githubusercontent.com/69068577/166183508-febeca5f-c99f-49ac-9678-8d63894b4c34.png)
 
 The Evaluation metric for this project is Root Mean Squared Logarithmic
 Error (RMSLE). The RMSLE is calculated as:
