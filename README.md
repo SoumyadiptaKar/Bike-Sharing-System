@@ -32,11 +32,15 @@ We are provided with following files:
 
 ## Data Dictionary
 
+![2](https://user-images.githubusercontent.com/69068577/166183532-2f32abf4-2178-4731-862c-6ac259fac37f.png)
+
 Here is the description of all the variables :
 
 ## How good are your predictions?
 
-### Evaluation Metric
+### Evaluation Metric!
+
+[3](https://user-images.githubusercontent.com/69068577/166183508-febeca5f-c99f-49ac-9678-8d63894b4c34.png)
 
 The Evaluation metric for this project is Root Mean Squared Logarithmic
 Error (RMSLE). The RMSLE is calculated as:
